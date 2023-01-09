@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="6951" started-at="2023-01-09T21:52:45Z" finished-at="2023-01-09T21:52:52Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="6951" started-at="2023-01-09T21:52:45Z" finished-at="2023-01-09T21:52:52Z">
+      <class name="com.obsqura.selenium.FinalProject.VerifyButtonsAndColorsInExpenseCategoryTest">
+        <test-method status="PASS" signature="initialiseBrowser()[pri:0, instance:com.obsqura.selenium.FinalProject.VerifyButtonsAndColorsInExpenseCategoryTest@20322d26]" name="initialiseBrowser" is-config="true" duration-ms="13" started-at="2023-01-10T03:22:45Z" finished-at="2023-01-10T03:22:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialiseBrowser -->
+        <test-method status="PASS" signature="initializeBrowser()[pri:0, instance:com.obsqura.selenium.FinalProject.VerifyButtonsAndColorsInExpenseCategoryTest@20322d26]" name="initializeBrowser" is-config="true" duration-ms="4786" started-at="2023-01-10T03:22:45Z" finished-at="2023-01-10T03:22:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeBrowser -->
+        <test-method status="PASS" signature="verifyFindBackgroundColor()[pri:0, instance:com.obsqura.selenium.FinalProject.VerifyButtonsAndColorsInExpenseCategoryTest@20322d26]" name="verifyFindBackgroundColor" duration-ms="2121" started-at="2023-01-10T03:22:50Z" finished-at="2023-01-10T03:22:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyFindBackgroundColor -->
+      </class> <!-- com.obsqura.selenium.FinalProject.VerifyButtonsAndColorsInExpenseCategoryTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
